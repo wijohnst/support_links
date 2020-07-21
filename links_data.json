@@ -1,0 +1,77 @@
+{
+ "links":
+    [
+        {
+            "url":"https://candidimpressionsphotos.youcanbook.me/",
+            "text":"Book a video appointment with an Impression Specialist" 
+        },
+        {
+            "url":"https://docs.google.com/document/d/1Bs4BNC63G-CJuqVV_o8Y3EPmUy8f-eDaPgY_Jk4ry9Q/edit",
+            "text":"Off-Roading Document (Google Docs)"
+        },
+        {
+           "url": "https://docs.google.com/document/d/19cwrcD1ta_qAsUZxxFwZX2gHt0KkAEJjtOuJeJYrI7A/edit",
+           "text": "Support S.O.P. Document"
+        },
+        {
+            "url": "https://docs.google.com/spreadsheets/d/1LZL7XFjfEpY4uRFc7jvDp5hGpERoYO11D_f-tDIojRw/edit#gid=0",
+            "text": "New Hire Reference Guide (Google Docs)"
+        },
+        {
+            "url": "https://portal.candidco.com/steps/intake-form",
+            "text": "Intake Form "
+        },
+        {
+            "url": "https://docs.google.com/spreadsheets/d/1TdfAWfw8OhOv8IIfFG5mzOTj56Hh4pmoxJVOwf8DPGM/edit?usp=sharing",
+            "text": "Invoice Tool (Google Docs)"
+        },
+        {
+            "url": "https://docs.google.com/spreadsheets/d/1YD7aAkriQoUFZ-FwXxSui4t91I4iitZCGZ44VelgJUQ/edit#gid=0",
+            "text": "AK Shipping Log (Google Docs)"
+        },
+        {
+            "url": "https://docs.google.com/spreadsheets/d/1C6UL40FmbvNJkd4GsUO7ipuAlKZ1Bypcv1lW5vWuv2Q/edit#gid=0",
+            "text": "Holds List (Google Docs)"
+        },
+        {
+            "url": "https://docs.google.com/presentation/d/1c19mLkGnavdpEkIhcGpp1X_KtFrtDDMMAhNX3pr8wPQ/edit#slide=id.g8d8696fa73_0_0",
+            "text": "Clear Correct Presentation"
+        },
+        {
+            "url": "https://drive.google.com/file/d/1l5rQVr10DFGfWGRuBlk7r34jHAzPPLiF/view?usp=sharing",
+            "text": "ZenDesk Keyboard Shortcuts"
+        },
+        {
+            "url": "https://sites.google.com/candidco.com/thealigner/support-resources/insurance-central-101",
+            "text": "Insurance 101"
+        },
+        {
+            "url": "https://docs.google.com/spreadsheets/d/1IOureMVTgDZdhFG-QNOCyzlu5skqkvF2j3ri8ySPFRg/edit#gid=0",
+            "text": "QA Sheet Needs"
+        },
+        {
+            "url": "https://docs.google.com/document/d/15rQUY85Z-2y4tVZHDoD0X70Un2RIaGLRRba40-5OQB0/edit?usp=sharing",
+            "text": "CNT Script"
+        },
+        {
+            "url": "https://docs.google.com/document/d/1hQaYDhVHSPA1SJFUUgb4khQmNyW362pW34X21FLkcmc/edit?usp=sharing",
+            "text": "NDW Check List"
+        },
+        {
+            "url": "https://docs.google.com/document/d/12EhWMfnh8h0KPEnyj-7GbINkRBCv2Yz8jh6qo9_VsIk/edit",
+            "text": "Removing an NDW Flag"
+        },
+        {
+            "url": "https://app.geckoboard.com/edit/dashboards/308706",
+            "text": "Leaderboard"
+        },
+        {
+            "url": "https://docs.google.com/spreadsheets/d/1lwRb3Yza-Lzj8AOtHxs9Gs-5PC_gjgs0CFy6swZCZPQ/edit?usp=sharing",
+            "text": "Benefit vs. Effort Matrix"
+        },
+        {
+            "url": "https://api.candidco.com/admin/orders/order/",
+            "text": "API Direct Order Link"
+        }
+    ]
+}
