@@ -4,68 +4,81 @@
         {
             "url":"https://candidimpressionsphotos.youcanbook.me/",
             "text":"Book a video appointment with an Impression Specialist",
-            "tags": ["tools","Starter Kit", "pre-treatment"] 
+            "tags": ["tools","Starter Kit", "pre-treatment"],
+            "auth": false  
         },
         {
             "url":"https://docs.google.com/document/d/1Bs4BNC63G-CJuqVV_o8Y3EPmUy8f-eDaPgY_Jk4ry9Q/edit",
             "text":"Off-Roading Document (Google Docs)",
-            "tags": ["essentials", "off-roading", "escalations", "documents"]
+            "tags": ["essentials", "off-roading", "escalations", "documents"],
+            "auth": true
         },
         {
            "url": "https://docs.google.com/document/d/19cwrcD1ta_qAsUZxxFwZX2gHt0KkAEJjtOuJeJYrI7A/edit",
            "text": "Support S.O.P. Document",
-           "tags": ["essentials", "documents"]
+           "tags": ["essentials", "documents"],
+           "auth": true
         },
         {
             "url": "https://docs.google.com/spreadsheets/d/1LZL7XFjfEpY4uRFc7jvDp5hGpERoYO11D_f-tDIojRw/edit#gid=0",
             "text": "New Hire Reference Guide (Google Docs)",
-            "tags": ["essentials", "documents"]
+            "tags": ["essentials", "documents"],
+            "auth": true
         },
         {
             "url": "https://portal.candidco.com/steps/intake-form",
             "text": "Intake Form",
-            "tags": ["pre-treatment"]
+            "tags": ["pre-treatment"],
+            "auth": true
         },
         {
             "url": "https://docs.google.com/spreadsheets/d/1TdfAWfw8OhOv8IIfFG5mzOTj56Hh4pmoxJVOwf8DPGM/edit?usp=sharing",
             "text": "Invoice Tool (Google Docs)",
-            "tags": ["tools", "ordering"]
+            "tags": ["tools", "ordering"],
+            "auth": true
         },
         {
             "url": "https://docs.google.com/spreadsheets/d/1YD7aAkriQoUFZ-FwXxSui4t91I4iitZCGZ44VelgJUQ/edit#gid=0",
             "text": "AK Shipping Log (Google Docs)",
-            "tags": ["tools", "documents", "ordering"]
+            "tags": ["tools", "documents", "ordering"],
+            "auth": true
         },
         {
             "url": "https://docs.google.com/spreadsheets/d/1C6UL40FmbvNJkd4GsUO7ipuAlKZ1Bypcv1lW5vWuv2Q/edit#gid=0",
             "text": "Holds List (Google Docs)",
-            "tags": ["tools", "ordering", "documents"]
+            "tags": ["tools", "ordering", "documents"],
+            "auth": true
         },
         {
             "url": "https://docs.google.com/presentation/d/1c19mLkGnavdpEkIhcGpp1X_KtFrtDDMMAhNX3pr8wPQ/edit#slide=id.g8d8696fa73_0_0",
             "text": "Clear Correct Presentation",
-            "tags": ["ClearCorrect", "documents"]
+            "tags": ["ClearCorrect", "documents"],
+            "auth": true
         },
         {
             "url": "https://drive.google.com/file/d/1l5rQVr10DFGfWGRuBlk7r34jHAzPPLiF/view?usp=sharing",
             "text": "ZenDesk Keyboard Shortcuts",
-            "tags": ["ZenDesk", "workflow"]
+            "tags": ["ZenDesk", "workflow"],
+            "auth": true
         },
         {
             "url": "https://sites.google.com/candidco.com/thealigner/support-resources/insurance-central-101",
             "text": "Insurance 101",
-            "tags": ["essentials", "documents"]
+            "tags": ["essentials", "documents"],
+            "auth": true
         },
         {
             "url": "https://docs.google.com/spreadsheets/d/1IOureMVTgDZdhFG-QNOCyzlu5skqkvF2j3ri8ySPFRg/edit#gid=0",
             "text": "QA Sheet",
-            "tags": ["essentials", "tools", "documents"]
+            "tags": ["essentials", "tools", "documents"],
+            "auth": true
 
         },
         {
             "url": "https://docs.google.com/document/d/15rQUY85Z-2y4tVZHDoD0X70Un2RIaGLRRba40-5OQB0/edit?usp=sharing",
             "text": "CNT Script",
-            "tags": ["pre-treatment", "documents", "script"]
+            "tags": ["pre-treatment", "documents", "script"],
+            "auth": true
         },
         {
             "url": "https://docs.google.com/document/d/1hQaYDhVHSPA1SJFUUgb4khQmNyW362pW34X21FLkcmc/edit?usp=sharing",
@@ -75,42 +88,50 @@
         {
             "url": "https://docs.google.com/document/d/12EhWMfnh8h0KPEnyj-7GbINkRBCv2Yz8jh6qo9_VsIk/edit",
             "text": "Removing an NDW Flag",
-            "tags": ["in-treatment", "how-to", "documents"]
+            "tags": ["in-treatment", "how-to", "documents"],
+            "auth": true
         },
         {
             "url": "https://app.geckoboard.com/edit/dashboards/308706",
             "text": "Leaderboard",
-            "tags": ["essentials", "tools"]
+            "tags": ["essentials", "tools"],
+            "auth": true
         },
         {
             "url": "https://docs.google.com/spreadsheets/d/1lwRb3Yza-Lzj8AOtHxs9Gs-5PC_gjgs0CFy6swZCZPQ/edit?usp=sharing",
             "text": "Benefit vs. Effort Matrix",
-            "tags": ["tools"]
+            "tags": ["tools"],
+            "auth": true
         },
         {
             "url": "https://api.candidco.com/admin/orders/order/",
             "text": "API Direct Order Link",
-            "tags": ["ordering", "API"]
+            "tags": ["ordering", "API"],
+            "auth": true
         },
         {
             "url": "https://drive.google.com/file/d/1Xh1clBtUsMGV2azydbzrCmSYrjGpq25m/view",
             "text": "Escalations Presentation",
-            "tags": ["escalations", "presentation"]
+            "tags": ["escalations", "presentation"],
+            "auth": true
         },
         {
             "url": "https://docs.google.com/document/d/1GZ6xdExgdV4bEY3mm4MGAUlDbuUK6KIgqKiL3WNDRTQ/edit",
             "text": "Ortho. Stripe Emails",
-            "tags": ["essentials", "stripe", "documents"]
+            "tags": ["essentials", "stripe", "documents"],
+            "auth": true
         },
         {
             "url": "https://docs.google.com/presentation/d/1WZ7_qEFA7Mr0Ht1_UYwtrM672M0xIUE5xISMTnwaGJk/edit#slide=id.g8a7d512956_0_95",
             "text": "Phillips Whitening Presentation",
-            "tags": ["presentation", "pre-treatment", "sales"]
+            "tags": ["presentation", "pre-treatment", "sales"],
+            "auth": true
         },
         {
             "url": "https://docs.google.com/forms/d/e/1FAIpQLSdMV9wvv1pZ46dDWTn0ZD1UFoSg2R6kL4yehOiGJE3qNXzh9g/viewform",
             "text": "Marketing Promo + Referral Inquiry Form",
-            "tags": ["form", "marketing"]
+            "tags": ["form", "marketing"],
+            "auth": true
         }
     ]
 }
