@@ -10,7 +10,8 @@
 		<h1>TRAINING LINKS</h1>
 		<div id="sort-wrapper">
 			<label for="sort-select">Sort Links By Tag:</label>
-			<select name="sort-select" id="sort-select"></select>
+			<select name="sort-select" id="sort-select" onchange="sortTags()"></select>
+			<button onclick="resetSort()">Reset</button>
 		</div>
 		<div id="links-wrapper">
 			<ul id="links-list">

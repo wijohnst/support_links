@@ -96,6 +96,11 @@
             "url": "https://drive.google.com/file/d/1Xh1clBtUsMGV2azydbzrCmSYrjGpq25m/view",
             "text": "Escalations Presentation",
             "tags": ["escalations", "presentation"]
+        },
+        {
+            "url": "https://docs.google.com/document/d/1GZ6xdExgdV4bEY3mm4MGAUlDbuUK6KIgqKiL3WNDRTQ/edit",
+            "text": "Ortho. Stripe Emails",
+            "tags": ["essentials", "stripe", "documents"]
         }
     ]
 }
