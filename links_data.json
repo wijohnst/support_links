@@ -132,6 +132,12 @@
             "text": "Marketing Promo + Referral Inquiry Form",
             "tags": ["form", "marketing"],
             "auth": true
+        },
+        {
+            "url": "https://sites.google.com/candidco.com/thealigner/home",
+            "text": "The Aligner - Home",
+            "tags": ["essentials"],
+            "auth": true
         }
     ]
 }
