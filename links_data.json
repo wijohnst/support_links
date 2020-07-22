@@ -138,6 +138,12 @@
             "text": "The Aligner - Home",
             "tags": ["essentials"],
             "auth": true
+        },
+        {
+            "url": "https://candid.stellaconnect.net/",
+            "text": "Stella",
+            "tags": ["essentials"],
+            "auth": true
         }
     ]
 }
