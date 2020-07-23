@@ -144,6 +144,12 @@
             "text": "Stella",
             "tags": ["essentials"],
             "auth": true
+        },
+        {
+            "url": "https://docs.google.com/spreadsheets/d/1l3STJWh881Do_crgbQQt7Fj1qw8WE5xA55H3cJ7kzuc/edit#gid=1330985203",
+            "text": "Ortho State Document (Google Docs)",
+            "tags": ["ortho", "ordering"],
+            "auth": true
         }
     ]
 }
