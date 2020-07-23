@@ -150,6 +150,12 @@
             "text": "Ortho State Document (Google Docs)",
             "tags": ["ortho", "ordering"],
             "auth": true
+        },
+        {
+            "url": "https://monitoring.candidco.com/login?loc=%2Fusers%2Flist%2Fdoctor",
+            "text": "Dental Monitoring Login",
+            "tags": ["dental monitoring", "tools"],
+            "auth": true
         }
     ]
 }
