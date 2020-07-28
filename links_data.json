@@ -156,6 +156,12 @@
             "text": "Dental Monitoring Login",
             "tags": ["dental monitoring", "tools"],
             "auth": true
+        },
+        {
+            "url": "https://docs.google.com/document/d/1hQHlhClXEdzz6ZHsSy8dG4aLDxT0h8wpgDkJqWwA8AE/edit",
+            "text": "Refinements Process Map",
+            "tags": ["refinements", "documents"],
+            "auth": true
         }
     ]
 }
