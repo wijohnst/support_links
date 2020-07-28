@@ -16,7 +16,7 @@
         {
            "url": "https://docs.google.com/document/d/19cwrcD1ta_qAsUZxxFwZX2gHt0KkAEJjtOuJeJYrI7A/edit",
            "text": "Support S.O.P. Document",
-           "tags": ["essentials", "documents"],
+           "tags": ["essentials", "documents", "SOP"],
            "auth": true
         },
         {
@@ -167,6 +167,12 @@
             "url" : "https://docs.google.com/presentation/d/1sR0N85tvYabAevu0LqlvREJ8gbdZkNjGz6CEsat1JNg/edit#slide=id.p",
             "text": "Collecting ITI Photos Workflow",
             "tags": ["refinements", "documents", "workflow"],
+            "auth": true
+        },
+        {
+            "url": "https://docs.google.com/document/d/19cwrcD1ta_qAsUZxxFwZX2gHt0KkAEJjtOuJeJYrI7A/edit#heading=h.ei99du58rvo1",
+            "text": "Common ITI Tasks",
+            "tags": ["refinements", "documents", "workflow", "SOP"],
             "auth": true
         }
     ]
